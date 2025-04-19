@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    font-size: x-large;
+}
+
+p{
+    color: rgb(93, 93, 93);
+}
+
+.text-blue-bold{
+    color: rgb(9, 113, 154);
+    font-weight: bold;
+}
