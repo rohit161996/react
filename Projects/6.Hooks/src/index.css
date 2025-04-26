@@ -1,0 +1,15 @@
+.flex{
+  display: flex;
+  gap: normal;
+}
+
+button{
+  background-color: yellow;
+  padding: 10px;
+  border: none;
+  outline: none;
+  margin: 10px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-radius: 50%;
+}
